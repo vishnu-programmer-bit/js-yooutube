@@ -1,2 +1,2 @@
-# js-yooutube
+# javascript
 A code repo for javascript
